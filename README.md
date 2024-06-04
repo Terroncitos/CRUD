@@ -1,5 +1,1 @@
-Registra calificaciones y datos de alumnos
-Edita y elimina los datos
-Consulta datos 
-Sube fotos de los alumnos
-Realiza busquedas de alumnos
+Registra calificaciones, datos de alumnos, edita, elimina los datos, consulta datos, sube fotos de los alumnos Y Realiza busquedas de alumnos
